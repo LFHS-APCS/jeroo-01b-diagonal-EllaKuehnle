@@ -21,7 +21,7 @@ public class Main implements Directions {
      * Put your main Jeroo code here.
      */
     public static void runJerooCode() {
-     { // instantiate the Jeroo (i.e. create it) 
+     // instantiate the Jeroo (i.e. create it) 
    // and then make a remote control pointing to it called kim
    // instantiate the Jeroo (i.e. create it) 
    // and then make a remote control pointing to it called kim
